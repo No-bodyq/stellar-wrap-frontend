@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "compiled",
+    "feat/landing",
+    "fix/582-vibe-check-route-casing",
+    "fix/583-consolidate-ci-workflows",
+    "fix/587-consolidate-indexer",
+    "fix/589-single-store-dir",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "compiled": "main",
+    "feat/landing": "main",
+    "fix/582-vibe-check-route-casing": "main",
+    "fix/583-consolidate-ci-workflows": "main",
+    "fix/587-consolidate-indexer": "main",
+    "fix/589-single-store-dir": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "compiled",
+    "feat/landing",
+    "fix/582-vibe-check-route-casing",
+    "fix/583-consolidate-ci-workflows",
+    "fix/587-consolidate-indexer",
+    "fix/589-single-store-dir",
+    "origin"
+  ]
+}
